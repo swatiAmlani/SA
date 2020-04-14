@@ -1,0 +1,41 @@
+[
+  { "_id" : {
+    "Emp_Name": "Saurab",
+    "Emp_Id" : 154212
+  },
+    "Competency": [
+      {
+        "Tech": "DataStage"
+      },
+      {
+        "Tech": "Angular"
+      }
+    ]
+  },
+  { "_id" : {
+    "Emp_Name": "Prince",
+    "Emp_Id" : 164845
+  },
+    "Competency": [
+      {
+        "Tech": "TeraData"
+      },
+      {
+        "Tech": "Cloud"
+      }
+    ]
+  },
+  { "_id" : {
+    "Emp_Name": "Simran",
+    "Emp_Id" : 89545
+  },
+    "Competency": [
+      {
+        "Tech": "Azure"
+      },
+      {
+        "Tech": "React"
+      }
+    ]
+  }
+]
